@@ -1,2 +1,2 @@
-FROM ubuntu
-CMD "echo" "hello,world"
+FROM hello-world:latest
+CMD "/hello"
